@@ -1,0 +1,19 @@
+.upload {
+  height: 300px;
+  width: 300px;
+  border: 0.5px dotted black;
+  background-color: rgb(236, 235, 235);
+  border-radius: 10px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.plus {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 100px;
+}
